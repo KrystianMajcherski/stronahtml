@@ -5,3 +5,9 @@
 body{
     background-color: aqua;
 }
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
